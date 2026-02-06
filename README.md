@@ -1,4 +1,4 @@
-# Chrome Extension For Productivity Tracker Chrome Extension
+# Chrome Extension For Productivity Management
 
 COMPANY : CODTECH IT SOLUTIONS PRIVATE LIMITED
 
@@ -82,8 +82,9 @@ Select the extension folder
 
 ## OUTPUT
 
-<img width="1474" height="365" alt="Image" src="https://github.com/user-attachments/assets/d2c7cab3-585d-4089-95f4-f76cbce4dadb" />
-<img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/232c440c-c20e-41ce-a3d4-ffe440a5cd91" />
-<img width="1919" height="1015" alt="Image" src="https://github.com/user-attachments/assets/cbc4d92e-360a-4ce3-b00f-5e28688c8b5f" />
 <img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/ca61ee0e-9260-4245-ab21-cf2676bfdef4" />
+<img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/232c440c-c20e-41ce-a3d4-ffe440a5cd91" />
+<img width="1474" height="365" alt="Image" src="https://github.com/user-attachments/assets/d2c7cab3-585d-4089-95f4-f76cbce4dadb" />
+<img width="1919" height="1015" alt="Image" src="https://github.com/user-attachments/assets/cbc4d92e-360a-4ce3-b00f-5e28688c8b5f" />
+
 
