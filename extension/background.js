@@ -1,7 +1,7 @@
 let activeTab = null;
 let startTime = null;
 
-// 🚨 Sites to block
+// Sites to block
 const blockedSites = ["www.youtube.com", "www.facebook.com", "www.instagram.com"];
 
 // Track tabs
@@ -26,7 +26,7 @@ function handleTab(tab){
 
     const hostname = new URL(tab.url).hostname;
 
-    // 🚨 BLOCK WEBSITE
+    // BLOCK WEBSITE
     if(blockedSites.includes(hostname)){
         chrome.tabs.update(tab.id, {
             url: "https://www.google.com"
@@ -70,7 +70,7 @@ function trackTime(hostname){
     startTime = now;
 }
 
-// 🔥 SEND DATA TO BACKEND EVERY 60 SECONDS
+// SEND DATA TO BACKEND EVERY 60 SECONDS
 
 setInterval(() => {
 
